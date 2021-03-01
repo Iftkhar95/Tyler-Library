@@ -769,7 +769,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document44]
-DocumentPath=..\..\..\Tyler-Library\Project Outputs for TT_IntLib\TT_IntLib.IntLib
+DocumentPath=PCB_New.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -783,7 +783,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=REKWWUNB
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Task Tyler\Design Rule Check - Hotbuton_timer.html
